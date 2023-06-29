@@ -1,5 +1,5 @@
 # Parkinson's Disease Prediction
-This project aims to detect Parkinson's disease using machine learning techniques, in this case, a Support Vector Machine (SVM) model. It analyzes various vocal features extracted from speech recordings to classify whether a person has Parkinson's disease or not. The dataset used in this project is the "parkinsons.csv" dataset, which contains voice measurements of individuals with and without Parkinson's disease.
+This project aims to detect Parkinson's disease using machine learning techniques, in this case, a **Support Vector Machine (SVM)** model. It analyzes various vocal features extracted from speech recordings to classify whether a person has Parkinson's disease or not. The dataset used in this project is the "parkinsons.csv" dataset, which contains voice measurements of individuals with and without Parkinson's disease.
 
 # Languages and Frameworks/Libraries
 The project is implemented in Python, using the following frameworks/libraries:
@@ -21,11 +21,11 @@ pip install numpy pandas scikit-learn
 
 # Configuration
 1. Prepare the dataset:
-    * Download the "parkinsons.csv" dataset.
+    * Download the **parkinsons.csv** dataset.
     * Place the dataset file in the project directory.
 
 2. Run the project:
-    * Execute the "model.py" script to train and evaluate the machine learning model.
+    * Execute the **model.ipynb** script to train and evaluate the machine learning model.
     * The script will load the dataset, preprocess the data, train the model, and evaluate its performance.
 
 3. Interpret the results:
