@@ -5,7 +5,7 @@ This project aims to detect Parkinson's disease using machine learning technique
 The project is implemented using the following languages and frameworks/libraries:
 
 * **Python:** The main programming language used for the project.
-* **NumPy:** Used for numerical computations and array operations.
+* **numpy:** Used for numerical computations and array operations.
 * **pandas:** Used for data manipulation and analysis.
 * **scikit-learn:** Used for machine learning algorithms and evaluation metrics.
 
